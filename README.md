@@ -1,1 +1,1 @@
-## Udemy Android App Development Demo (following)
+## Udemy Android App Development Demo (in progress)
