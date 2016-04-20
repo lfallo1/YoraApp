@@ -1,5 +1,8 @@
 package com.training.lfallon.yoraapp.infrastructure;
 
+/**
+ * DTO storing info about logged in user
+ */
 public class User {
     private int id;
     private String username;
